@@ -6,3 +6,4 @@
 Option: Lose
 <img src"https://github.com/eduardotrejo/Java/blob/master/Hangman/hangman.png"/>
 </p>
+
