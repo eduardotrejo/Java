@@ -5,3 +5,6 @@
 <p>If the user accepts the offer (= “Deal”), your program should finish. If the user decides the “No Deal” option, your program asks the user to pick two cases.
 After selecting two cases, the user should decide “Deal” or “No Deal” again. If the user denies the offer again, your program should ask the user to pick one case. And the game will continue in this way.
 </p>
+<p align="center">
+<img src="https://github.com/eduardotrejo/Java/blob/master/DealNoDeal/dealnodeal.png"/>
+</p>
