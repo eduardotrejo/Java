@@ -4,7 +4,6 @@
  * 			 then it creates a underscore array for the word's length and the player to solve.
  * 			 The program also allows for guess input and hint. Also, keeps track of repeated guesses.
  * Author: Eduardo Trejo
- * ID: 6787
  * Date: 09/12/2014
  */
 import java.io.File;
