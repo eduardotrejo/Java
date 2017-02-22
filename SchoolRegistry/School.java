@@ -5,7 +5,6 @@
  * 			 prints out the school info, delete course, course info, add instructor,
  * 			 add course, get course, add student, graduate student, and student info.
  * Author: Eduardo Trejo
- * ID: 6787
  * Date: 10/24/2014
  */
 
@@ -240,7 +239,7 @@ public class School {
     	{	
 			if(obj.getInstructorNum() == iNum){
 			
-				System.out.println("Instructor addition failed – Duplicated instructor number.");
+				System.out.println("Instructor addition failed â€“ Duplicated instructor number.");
 				duplicate = true;
 			}	
     	}
@@ -259,7 +258,7 @@ public class School {
     	{	
 			if(obj.getCourseNum() == cNum){
 			
-				System.out.println("Course addition failed – Duplicated course number.");
+				System.out.println("Course addition failed â€“ Duplicated course number.");
 				duplicate = true;
 			}	
     	}
@@ -291,7 +290,7 @@ public class School {
     	{	
 			if(obj.getStudentId() == sId){
 			
-				System.out.println("Student addition failed – Duplicated student number.");
+				System.out.println("Student addition failed â€“ Duplicated student number.");
 				duplicate = true;
 			}	
     	}
