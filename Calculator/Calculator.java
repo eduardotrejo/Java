@@ -3,7 +3,6 @@
  * Abstract: This program implements a GUI Calculator. It does simple operations such as:
  * 			 +, -, *, and /.
  * Author: Eduardo Trejo
- * ID: 6787
  * Date: 11/14/2014
  */
 
