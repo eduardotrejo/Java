@@ -3,7 +3,6 @@
  * Abstract: This program contains the needed constructors, getters, and setters for School.java.
  * 			 It also contains the update location function.
  * Author: Eduardo Trejo
- * ID: 6787
  * Date: 10/24/2014
  */
 public class Course {
