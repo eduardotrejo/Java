@@ -10,7 +10,6 @@
  * 			 or no deal. If there's no deal player can continue picking 1 case until 1
  * 			 case is left or player takes the offer.
  * Author: Eduardo Trejo
- * ID: 6787
  * Date: 10/05/2014
  */
 
@@ -307,7 +306,7 @@ public class DealNoDeal {
 			}while(cases.length - hidden != 1);
 			
 			if(cases.length - hidden == 1){
-				System.out.println("\nOK! Since we have only one hidden case left, let’s open your original \ncase.");
+				System.out.println("\nOK! Since we have only one hidden case left, letÂ’s open your original \ncase.");
 				// Reset banker amount.
 				buffer = 0;		
 				hiddenAmounts[original - 1] = true;
